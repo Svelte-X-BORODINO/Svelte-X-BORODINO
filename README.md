@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Svelte-X-BORODINO
-- 👀 I’m interested in Python
+- 👀 I’m interested in Go
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on random ppl from Github
 - 📫 How to reach me: idk
